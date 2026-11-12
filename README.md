@@ -1,12 +1,12 @@
 # Hi, I'm Sophia! 👋
 
-🎓 Final-year Computer Science and Engineering student at Cyprus University of Technology.
+Final-year Computer Science and Engineering student at Cyprus University of Technology.
 
-💻 Interested in Software Development, Web Technologies, and Computer Systems.
+Interested in Software Development, Web Technologies, and Computer Systems.
 
-🌱 Currently working on my Bachelor's Thesis: a web-based RISC-V CPU Cache and Memory Simulator.
+Currently working on my Bachelor's Thesis: a web-based RISC-V CPU Cache and Memory Simulator.
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 **Programming Languages:** Java, Python, C, C++, JavaScript, TypeScript
 
@@ -16,7 +16,7 @@
 
 **Tools & Technologies:** Git, GitHub, Spring Boot, REST APIs, Vite
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **RISC-V CPU Cache and Memory Simulator** *(In Progress)*
 
@@ -26,7 +26,7 @@ An interactive educational web application built with React and TypeScript to vi
 
 A university team project developed using PHP, MySQL, HTML, CSS, and Bootstrap, featuring announcements and e-shop management.
 
-### 📫 Connect With Me
+### Connect With Me
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sophia-kyriacou19/)
 - Location: Limassol, Cyprus
