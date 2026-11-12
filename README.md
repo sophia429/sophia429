@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sophia! 👋
 
-<!--
-**sophia429/sophia429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science and Engineering student at Cyprus University of Technology.
 
-Here are some ideas to get you started:
+💻 Interested in Software Development, Web Technologies, and Computer Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently working on my Bachelor's Thesis: a web-based RISC-V CPU Cache and Memory Simulator.
+
+### 🛠️ Technical Skills
+
+**Programming Languages:** Java, Python, C, C++, JavaScript, TypeScript
+
+**Web Development:** React, HTML, CSS, PHP, Bootstrap
+
+**Databases:** SQL, MySQL
+
+**Tools & Technologies:** Git, GitHub, Spring Boot, REST APIs, Vite
+
+### 🚀 Featured Projects
+
+**RISC-V CPU Cache and Memory Simulator** *(In Progress)*
+
+An interactive educational web application built with React and TypeScript to visualize cache memory operations and RISC-V instruction execution.
+
+**School Parent Association Website**
+
+A university team project developed using PHP, MySQL, HTML, CSS, and Bootstrap, featuring announcements and e-shop management.
+
+### 📫 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sophia-kyriacou19/)
+- Location: Limassol, Cyprus
