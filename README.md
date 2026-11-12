@@ -22,7 +22,7 @@ Currently working on my Bachelor's Thesis: a web-based RISC-V CPU Cache and Memo
 
 An interactive educational web application built with React and TypeScript to visualize cache memory operations and RISC-V instruction execution.
 
-**School Parent Association Website**
+**[School Parent Association Website](https://github.com/Marios-Shittas/parents-council-platform-group5)**
 
 A university team project developed using PHP, MySQL, HTML, CSS, and Bootstrap, featuring announcements and e-shop management.
 
